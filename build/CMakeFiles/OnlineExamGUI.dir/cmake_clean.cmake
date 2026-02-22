@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/OnlineExamGUI_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/OnlineExamGUI_autogen.dir/ParseCache.txt"
+  "OnlineExamGUI_autogen"
+  "CMakeFiles/OnlineExamGUI.dir/OnlineExamGUI_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/OnlineExamGUI_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/gui/ExamWidget.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/gui/ExamWidget.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/gui/MainWindow.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/gui/MainWindow.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/gui/ResultWidget.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/gui/ResultWidget.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/gui/SetupWidget.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/gui/SetupWidget.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/gui/guimain.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/gui/guimain.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/APIQuestionGenerator.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/APIQuestionGenerator.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/ConsoleUI.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/ConsoleUI.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/EnvLoader.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/EnvLoader.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/Question.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/Question.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/QuestionBank.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/QuestionBank.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/ResultAnalyzer.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/ResultAnalyzer.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/Student.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/Student.cpp.o.d"
+  "CMakeFiles/OnlineExamGUI.dir/src/TimerManager.cpp.o"
+  "CMakeFiles/OnlineExamGUI.dir/src/TimerManager.cpp.o.d"
+  "OnlineExamGUI"
+  "OnlineExamGUI.pdb"
+  "OnlineExamGUI_autogen/mocs_compilation.cpp"
+  "OnlineExamGUI_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/OnlineExamGUI.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

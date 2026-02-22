@@ -1,0 +1,8 @@
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/OnlineExamSystem.dir
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/OnlineExamGUI.dir
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/edit_cache.dir
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/rebuild_cache.dir
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/OnlineExamSystem_autogen_timestamp_deps.dir
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/OnlineExamSystem_autogen.dir
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/OnlineExamGUI_autogen_timestamp_deps.dir
+/Users/zoro/Developer/Projects/onlineExam/build/CMakeFiles/OnlineExamGUI_autogen.dir

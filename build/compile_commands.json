@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/OnlineExamSystem_autogen/mocs_compilation.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/mocs_compilation.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/OnlineExamSystem_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/main.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/main.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/main.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/APIQuestionGenerator.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/APIQuestionGenerator.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/APIQuestionGenerator.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/APIQuestionGenerator.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/ConsoleUI.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/ConsoleUI.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/ConsoleUI.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/ConsoleUI.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/EnvLoader.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/EnvLoader.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/EnvLoader.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/EnvLoader.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/Question.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/Question.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/Question.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/Question.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/QuestionBank.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/QuestionBank.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/QuestionBank.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/QuestionBank.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/ResultAnalyzer.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/ResultAnalyzer.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/ResultAnalyzer.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/ResultAnalyzer.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/Student.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/Student.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/Student.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/Student.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++  -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamSystem.dir/src/TimerManager.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/TimerManager.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/TimerManager.cpp",
+  "output": "CMakeFiles/OnlineExamSystem.dir/src/TimerManager.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/OnlineExamGUI_autogen/mocs_compilation.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/mocs_compilation.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/OnlineExamGUI_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/gui/ExamWidget.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/gui/ExamWidget.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/gui/ExamWidget.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/gui/ExamWidget.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/gui/MainWindow.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/gui/MainWindow.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/gui/MainWindow.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/gui/MainWindow.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/gui/ResultWidget.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/gui/ResultWidget.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/gui/ResultWidget.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/gui/ResultWidget.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/gui/SetupWidget.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/gui/SetupWidget.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/gui/SetupWidget.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/gui/SetupWidget.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/gui/guimain.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/gui/guimain.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/gui/guimain.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/gui/guimain.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/APIQuestionGenerator.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/APIQuestionGenerator.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/APIQuestionGenerator.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/APIQuestionGenerator.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/ConsoleUI.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/ConsoleUI.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/ConsoleUI.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/ConsoleUI.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/EnvLoader.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/EnvLoader.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/EnvLoader.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/EnvLoader.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/Question.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/Question.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/Question.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/Question.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/QuestionBank.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/QuestionBank.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/QuestionBank.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/QuestionBank.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/ResultAnalyzer.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/ResultAnalyzer.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/ResultAnalyzer.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/ResultAnalyzer.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/Student.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/Student.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/Student.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/Student.cpp.o"
+},
+{
+  "directory": "/Users/zoro/Developer/Projects/onlineExam/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI_autogen/include -I/Users/zoro/Developer/Projects/onlineExam/include -I/Users/zoro/Developer/Projects/onlineExam/gui -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/OnlineExamGUI.dir/src/TimerManager.cpp.o -c /Users/zoro/Developer/Projects/onlineExam/src/TimerManager.cpp",
+  "file": "/Users/zoro/Developer/Projects/onlineExam/src/TimerManager.cpp",
+  "output": "CMakeFiles/OnlineExamGUI.dir/src/TimerManager.cpp.o"
+}
+]

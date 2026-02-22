@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_OnlineExamSystem_FILE /Users/zoro/Developer/Projects/onlineExam/build/OnlineExamSystem)
+set(__QT_DEPLOY_TARGET_OnlineExamSystem_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_OnlineExamGUI_FILE /Users/zoro/Developer/Projects/onlineExam/build/OnlineExamGUI)
+set(__QT_DEPLOY_TARGET_OnlineExamGUI_TYPE EXECUTABLE)
