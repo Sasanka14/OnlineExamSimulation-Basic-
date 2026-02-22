@@ -1,4 +1,6 @@
 # Online Examination System
+<img width="858" height="750" alt="image" src="https://github.com/user-attachments/assets/ff94716d-b53f-4f7d-b8d1-90a6fa9bc475" />
+
 
 A desktop MCQ examination platform built with **C++17** and **Qt 6**, featuring AI-powered question generation via Google Gemini and OpenAI APIs.
 
